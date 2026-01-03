@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Alexa AI — Интеллектуальный Ассистент",
+  "description": "Персональный ассистент Алекса, созданный Asadbek. Поддержка голоса, поиска и авторизации.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
